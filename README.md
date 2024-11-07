@@ -1,5 +1,9 @@
 # CoppeliaSim - Coupe de France de Robotique 2024
 
+## Source
+
+https://github.com/benzr/cdfrob2024-coppeliasim-zeromq-remote-api
+
 Use 'Coupe de France Robotique 2024' challenge as a tutorial for the use of CoppeliaSim EDU ZeroMQ remote library
 
 ## Tutorial
@@ -53,4 +57,4 @@ python3 test_robot_sensors.py
 * add external parts of the arena
 * explain how to add video camera and LIDAR sensors in the tutorial
  
-
+http://web.archive.org/web/20240301183325/https://www.coupederobotique.fr/edition-2024/le-concours/reglement-2024/
